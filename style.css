@@ -1,0 +1,83 @@
+.fondo{
+    background: black;
+}
+
+#aluraLogo{
+    position: relative;
+    ;
+    padding-left: 20px;
+    left:20;
+    scale: 80%;
+    
+}
+
+#textoInput{
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 8%;
+    width: 40%;
+    height:70vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    color: #0A3871;
+    border: none;
+    resize: none;
+    border-radius: 5%;
+    
+}
+
+
+
+#textoOutput{
+    
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 7%;
+    width: 20%;
+    height:70vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    color: #0A3871;
+    border: none;
+    resize: none;
+    border-radius: 5%;
+ 
+}
+
+
+.buttonSize{
+    scale: 90%;
+    margin-top: 10px;
+}
+
+
+#boton1{
+    margin-left: 3%;
+    text-align: start;
+}
+
+#boton2{
+    margin-left: 3%;
+    text-align: start;
+}
+
+#boton3{
+    margin-left: 8%;
+    text-align: start;
+    
+}
+
+#emptyBoxIMG{
+    align-content: end;
+    
+    height: 55%;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 7%;
+    text-align: start;
+    
+}
+
+#imagenFondo{
+    width: 100%;
+}
