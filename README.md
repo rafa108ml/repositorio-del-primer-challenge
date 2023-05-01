@@ -1,1 +1,1 @@
-# repositorio-del-primer-challenge, what up?
+# repositorio-del-primer-challenge
